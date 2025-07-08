@@ -1,4 +1,9 @@
 * {
     background-color: darkblue;
-    color: #808080
+    color: #808080;
+    display: flex;
+}
+
+body {
+    flex-direction: column;
 }
